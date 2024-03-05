@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/c/Users/Chukky/Desktop/Projects/ff/formfunction-auction-house/target/sbf-solana-solana/release/build/typenum-a996db9055802d09/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/c/Users/Chukky/Desktop/Projects/ff/formfunction-auction-house/target/sbf-solana-solana/release/build/typenum-a996db9055802d09/out/op.rs

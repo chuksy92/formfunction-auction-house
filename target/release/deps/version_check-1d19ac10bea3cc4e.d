@@ -1,0 +1,10 @@
+/mnt/c/Users/Chukky/Desktop/Projects/ff/formfunction-auction-house/target/release/deps/version_check-1d19ac10bea3cc4e.rmeta: /home/chuksud77/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/lib.rs /home/chuksud77/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/version.rs /home/chuksud77/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/channel.rs /home/chuksud77/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/date.rs
+
+/mnt/c/Users/Chukky/Desktop/Projects/ff/formfunction-auction-house/target/release/deps/libversion_check-1d19ac10bea3cc4e.rlib: /home/chuksud77/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/lib.rs /home/chuksud77/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/version.rs /home/chuksud77/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/channel.rs /home/chuksud77/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/date.rs
+
+/mnt/c/Users/Chukky/Desktop/Projects/ff/formfunction-auction-house/target/release/deps/version_check-1d19ac10bea3cc4e.d: /home/chuksud77/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/lib.rs /home/chuksud77/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/version.rs /home/chuksud77/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/channel.rs /home/chuksud77/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/date.rs
+
+/home/chuksud77/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/lib.rs:
+/home/chuksud77/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/version.rs:
+/home/chuksud77/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/channel.rs:
+/home/chuksud77/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.3/src/date.rs:
